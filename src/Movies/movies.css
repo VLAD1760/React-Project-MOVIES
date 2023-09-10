@@ -1,0 +1,15 @@
+.titulo {
+    font-size: 30px;
+    color: rgb(243, 243, 243);
+}
+
+.cardHover {
+    padding-bottom: 15px;
+    display: inline-flex;
+    justify-content: center;
+    transition: transform 0.2s;
+}
+
+.cardHover:hover {
+    transform: scale(1.1);
+}

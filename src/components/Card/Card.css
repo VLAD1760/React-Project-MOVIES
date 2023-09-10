@@ -1,0 +1,14 @@
+.likeActive {
+    color: red;
+}
+
+.cards {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.imgp {
+    height: 25rem;
+    width: 17rem;
+}

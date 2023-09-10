@@ -1,0 +1,10 @@
+footer {
+    background-color: #131313;
+    /* Background color */
+    color: #fff;
+    /* Text color */
+    padding: 10px;
+    /* Padding around the content */
+    text-align: center;
+    /* Center-align text */
+}
